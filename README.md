@@ -1,3 +1,3 @@
 # gfg-code
-POTD codes for GFG /n
+POTD codes for GFG
 daily to daily
